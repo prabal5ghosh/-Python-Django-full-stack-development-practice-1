@@ -1,0 +1,2 @@
+HI Prabal Ghosh. How are u? Where are u?
+I am learning Django from youtube after that i will use udemy to learn django.
